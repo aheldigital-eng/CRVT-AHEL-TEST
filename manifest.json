@@ -1,0 +1,14 @@
+{
+  "name": "CRVT — Compte rendu de visite technique",
+  "short_name": "CRVT",
+  "description": "Application de compte rendu de visite technique",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1726",
+  "theme_color": "#0b1726",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"./icons/crvt-v5.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
